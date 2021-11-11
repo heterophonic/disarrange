@@ -130,6 +130,12 @@ export const MainPage = props => {
                                                 <p>
                                                     Now available on <a href="https://open.spotify.com/album/2l0x4k1uWw1OiHyiBBW13K?si=h_PPulrwSpGNgC_tqBxeIw" target="_blank">Spotify</a>, <a href="https://music.amazon.com/albums/B09LFC6ZFJ?ref=dm_sh_5bec-7b57-b1c0-05c7-3dc14" target="_blank">Amazon Music</a>, <a href="https://music.apple.com/us/album/luis-andrei-cobo-the-disarrange/1594451359" target="_blank">Apple Itunes</a>, <a href="https://music.youtube.com/playlist?list=OLAK5uy_mwjETVOKR_p7qvZsI_d0aGJQtPe9u_hrI&feature=share" target="_blank">YouTube Music</a>, and all other streaming platforms!
                                                 </p>
+                                                <p style={{textAlign:"center"}}>
+                                                    <Image as="a" href="https://music.apple.com/us/album/luis-andrei-cobo-the-disarrange/1594451359" target="_blank" src="/images/logos/itunes-logo-2811.png" style={{height:"24px", width:"24px"}}/>&nbsp;&nbsp;&nbsp;&nbsp;
+                                                    <Image as="a" href="https://open.spotify.com/album/2l0x4k1uWw1OiHyiBBW13K?si=h_PPulrwSpGNgC_tqBxeIw" target="_blank" src="/images/logos/Spotify_Icon_RGB_Green.png" style={{height:"24px", width:"24px"}}/>&nbsp;&nbsp;&nbsp;&nbsp;
+                                                    <Image as="a" href="https://music.youtube.com/playlist?list=OLAK5uy_mwjETVOKR_p7qvZsI_d0aGJQtPe9u_hrI&feature=share" target="_blank" src="/images/logos/youtube-music-logo.png" style={{height:"24px", width:"24px"}}/>&nbsp;&nbsp;&nbsp;&nbsp;
+                                                    <Image as="a" href="https://music.amazon.com/albums/B09LFC6ZFJ?ref=dm_sh_5bec-7b57-b1c0-05c7-3dc14" target="_blank" src="/images/logos/amazonlogo.png"/>
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
@@ -159,6 +165,11 @@ export const MainPage = props => {
                                                                     return (<><br/><span className="asLink" onClick={() => showBioDialog({tagName: peopleData[performer].bio})} dangerouslySetInnerHTML={{__html: performer}}></span><span className="eggshell"> - {peopleData[performer].instrument}</span></>)
                                                                 })                                                                
                                                                 }
+                                                                <br/><br/>
+                                                                {track.itunesLink && <><Image as="a" href={track.itunesLink} target="_blank" src="/images/logos/itunes-logo-2811.png" style={{height:"24px", width:"24px"}}/>&nbsp;&nbsp;&nbsp;</>}
+                                                                {track.spotifyLink && <><Image as="a" href={track.spotifyLink} target="_blank" src="/images/logos/Spotify_Icon_RGB_Green.png" style={{height:"24px", width:"24px"}}/>&nbsp;&nbsp;&nbsp;</>}
+                                                                {track.youtubeLink && <><Image as="a" href={track.youtubeLink} target="_blank" src="/images/logos/youtube-music-logo.png" style={{height:"24px", width:"24px"}}/>&nbsp;&nbsp;&nbsp;</>}
+                                                                {track.amazonLink && <><Image as="a" href={track.amazonLink} target="_blank" src="/images/logos/amazonlogo.png"/>&nbsp;</>}
                                                             </Segment></>
                                                         }
                                                     </Card.Content>

@@ -4,11 +4,11 @@
         "description": "for solo piano",
         "performers": ["Tamami Honma"],
         "track": "./audio/tracks/Prelude.mp3",
-        "spotifyLink": "",
-        "itunesLink": "",
-        "amazonLink": "",
+        "spotifyLink": "https://open.spotify.com/track/4QLR4h9CzxgADbiDLGYTV4?si=8d1da4bdb1f14ab3",
+        "itunesLink": "https://music.apple.com/us/album/prelude/1594451359?i=1594451360",
+        "amazonLink": "https://music.amazon.com/albums/B09LFC6ZFJ?trackAsin=B09LDHHJC6&ref=dm_sh_51ec-d4ae-bd37-8361-b9d6d",
         "deezerLink": "",
-        "youtubeLink": ""
+        "youtubeLink": "https://music.youtube.com/watch?v=-5uV7GxNB5Q&feature=share"
     },
     {
         "title": "Felonies",
@@ -18,22 +18,22 @@
         "poetlink": "http://www.jennifermichaelhecht.com",
         "performers": ["Tamara Hardesty", "Derin &Ouml;ge"],
         "track": "./audio/tracks/Felonies.mp3",
-        "spotifyLink": "",
-        "itunesLink": "",
-        "amazonLink": "",
+        "spotifyLink": "https://open.spotify.com/track/1ymYCdnrqhKhNkzP30zXQ5?si=89156bee2a2e4e38",
+        "itunesLink": "https://music.apple.com/us/album/felonies/1594451359?i=1594451361",
+        "amazonLink": "https://music.amazon.com/albums/B09LFC6ZFJ?trackAsin=B09LFC9P77&ref=dm_sh_4005-cfab-ff15-0165-39465",
         "deezerLink": "",
-        "youtubeLink": ""
+        "youtubeLink": "https://music.youtube.com/watch?v=FzDod1q0at4&feature=share"
     },
     {
         "title": "Le Petit Basque",
         "description": "for solo piano",
         "performers": ["Tamami Honma"],
         "track": "./audio/tracks/Le Petit Basque.mp3",
-        "spotifyLink": "",
-        "itunesLink": "",
-        "amazonLink": "",
+        "spotifyLink": "https://open.spotify.com/track/4sqV3tNZ81pv6XSbARSasE?si=5ccc603e151043e9",
+        "itunesLink": "https://music.apple.com/us/album/le-petit-basque/1594451359?i=1594451362",
+        "amazonLink": "https://music.amazon.com/albums/B09LFC6ZFJ?trackAsin=B09LF4ZSDN&ref=dm_sh_5559-df20-59f5-1abd-7fc77",
         "deezerLink": "",
-        "youtubeLink": ""
+        "youtubeLink": "https://music.youtube.com/watch?v=rxb8NuYQ8Vg&feature=share"
     },
     {
         "title": "The Disarrange",
@@ -43,22 +43,22 @@
         "poetlink": "http://www.jennifermichaelhecht.com",
         "performers": ["Tamara Hardesty", "Derin &Ouml;ge", "Jennifer DeVore"],
         "track": "./audio/tracks/The Disarrange.mp3",
-        "spotifyLink": "",
-        "itunesLink": "",
-        "amazonLink": "",
+        "spotifyLink": "https://open.spotify.com/track/4Erq830u0BApW31L7B6gqR?si=95eae768a7214e0b",
+        "itunesLink": "https://music.apple.com/us/album/the-disarrange/1594451359?i=1594451363",
+        "amazonLink": "https://music.amazon.com/albums/B09LFC6ZFJ?trackAsin=B09LFGXNBL&ref=dm_sh_0fd1-f7cd-580b-9ee8-a13f0",
         "deezerLink": "",
-        "youtubeLink": ""
+        "youtubeLink": "https://music.youtube.com/watch?v=vvuiz6ndDVo&feature=share"
     },
     {
         "title": "One",
         "description": "for solo piano",
         "performers": ["Tamami Honma"],
         "track": "./audio/tracks/One.mp3",
-        "spotifyLink": "",
-        "itunesLink": "",
-        "amazonLink": "",
+        "spotifyLink": "https://open.spotify.com/track/7iWr1lCR0HTKUxETHPv6KS?si=2c2ba7f58f6049f8",
+        "itunesLink": "https://music.apple.com/us/album/one/1594451359?i=1594451364",
+        "amazonLink": "https://music.amazon.com/albums/B09LFC6ZFJ?trackAsin=B09LDZH486&ref=dm_sh_3e6f-4062-2f90-f116-1aa52",
         "deezerLink": "",
-        "youtubeLink": ""
+        "youtubeLink": "https://music.youtube.com/watch?v=L9ajuUl9los&feature=share"
     },
     {
         "title": "On the Strength of All Conviction and the Stamina of Love",
@@ -68,11 +68,11 @@
         "poetlink": "http://www.jennifermichaelhecht.com",
         "performers": ["Tamara Hardesty", "Derin &Ouml;ge"],
         "track": "./audio/tracks/On the strength of all conviction.mp3",
-        "spotifyLink": "",
-        "itunesLink": "",
-        "amazonLink": "",
+        "spotifyLink": "https://open.spotify.com/track/3xMEwC0ofFoqVpWx4kBAlv?si=e547289963dd4c7e",
+        "itunesLink": "https://music.apple.com/us/album/on-the-strength-of-all-conviction-and-the-stamina-of-love/1594451359?i=1594451365",
+        "amazonLink": "https://music.amazon.com/albums/B09LFC6ZFJ?trackAsin=B09LDHX5KS&ref=dm_sh_1e23-5e97-a20d-f89a-84474",
         "deezerLink": "",
-        "youtubeLink": ""
+        "youtubeLink": "https://music.youtube.com/watch?v=H9kM_vdNNa8&feature=share"
     },
     {
         "title": "This Is Just To Say",
@@ -81,22 +81,22 @@
         "poet": "William Carlos Williams",
         "performers": ["Tamara Hardesty", "Derin &Ouml;ge"],
         "track": "./audio/tracks/This is just to say.mp3",
-        "spotifyLink": "",
-        "itunesLink": "",
-        "amazonLink": "",
+        "spotifyLink": "https://open.spotify.com/track/4kJnGAz0V431WiC4rCgNqb?si=7318b0cf83374150",
+        "itunesLink": "https://music.apple.com/us/album/this-is-just-to-say/1594451359?i=1594451366",
+        "amazonLink": "https://music.amazon.com/albums/B09LFC6ZFJ?trackAsin=B09LF9CMF6&ref=dm_sh_df95-5861-bc7f-aecc-c916c",
         "deezerLink": "",
-        "youtubeLink": ""
+        "youtubeLink": "https://music.youtube.com/watch?v=dzSTn8WYTco&feature=share"
     },
     {
         "title": "Demeter",
         "description": "for solo piano",
         "performers": ["Tamami Honma"],
         "track": "./audio/tracks/Demeter.mp3",
-        "spotifyLink": "",
-        "itunesLink": "",
-        "amazonLink": "",
+        "spotifyLink": "https://open.spotify.com/track/222yJP3tHqpSgg6T3NlCrZ?si=f30972b4f3314ebd",
+        "itunesLink": "https://music.apple.com/us/album/demeter/1594451359?i=1594451367",
+        "amazonLink": "https://music.amazon.com/albums/B09LFC6ZFJ?trackAsin=B09LDK7LPT&ref=dm_sh_d180-8ea3-9ecc-5080-5c903",
         "deezerLink": "",
-        "youtubeLink": ""
+        "youtubeLink": "https://music.youtube.com/watch?v=Nqe8t8RdJNM&feature=share"
     },
     {
         "title": "Time Does Not Bring Relief<span class='note'>*</span>",
@@ -105,11 +105,11 @@
         "poet": "Edna St. Vincent Millay",
         "performers": ["Heather Green", "Gene Pritsker", "Amir Khosrowpour", "Lynn Bechtold", "Mioi Takeda", "Jennifer DeVore"],
         "track": "./audio/tracks/Time Does Not Bring Relief.mp3",
-        "spotifyLink": "",
-        "itunesLink": "",
-        "amazonLink": "",
+        "spotifyLink": "https://open.spotify.com/track/4EcWuzcYYhaCvlcYBHdHBw?si=4c95fbd565b54f07",
+        "itunesLink": "https://music.apple.com/us/album/time-does-not-bring-relief-live/1594451359?i=1594451368",
+        "amazonLink": "https://music.amazon.com/albums/B09LFC6ZFJ?trackAsin=B09LF5J8Y2&ref=dm_sh_aa87-5260-b873-d406-3be9e",
         "deezerLink": "",
-        "youtubeLink": ""
+        "youtubeLink": "https://music.youtube.com/watch?v=JTcCwwgqw6g&feature=share"
     },
     {
         "title": "Worms<span class='note'>*</span>",
@@ -118,22 +118,22 @@
         "poet": "Heather Green",
         "performers": ["Heather Green", "Gene Pritsker", "Amir Khosrowpour", "Lynn Bechtold", "Mioi Takeda", "Jennifer DeVore"],
         "track": "./audio/tracks/Worms.mp3",
-        "spotifyLink": "",
-        "itunesLink": "",
-        "amazonLink": "",
+        "spotifyLink": "https://open.spotify.com/track/1U1KG4taPumPAqlyEhiT20?si=a23bc5234f2b4aad",
+        "itunesLink": "https://music.apple.com/us/album/worms-live/1594451359?i=1594451369",
+        "amazonLink": "https://music.amazon.com/albums/B09LFC6ZFJ?trackAsin=B09LDXL8MH&ref=dm_sh_3266-72d6-cfc4-69f0-cd891",
         "deezerLink": "",
-        "youtubeLink": ""
+        "youtubeLink": "https://music.youtube.com/watch?v=B5hIPcVqBqo&feature=share"
     },
     {
         "title": "Slow Motion",
         "description": "for solo piano",
         "performers": ["Tamami Honma"],
         "track": "./audio/tracks/Slow motion.mp3",
-        "spotifyLink": "",
-        "itunesLink": "",
-        "amazonLink": "",
+        "spotifyLink": "https://open.spotify.com/track/3n32IUN9zydSUWfo03Nkp7?si=9db8e46d671a465a",
+        "itunesLink": "https://music.apple.com/us/album/slow-motion/1594451359?i=1594451371",
+        "amazonLink": "https://music.amazon.com/albums/B09LFC6ZFJ?trackAsin=B09LDR11FP&ref=dm_sh_7f78-9b09-3bc5-2d2a-02599",
         "deezerLink": "",
-        "youtubeLink": ""
+        "youtubeLink": "https://music.youtube.com/watch?v=MJIFBwfCFc8&feature=share"
     },
     {
         "title": "Dark Hills",
@@ -142,11 +142,11 @@
         "poet": "Edwin Arlington Robinson",
         "performers": ["Tamara Hardesty", "Derin &Ouml;ge"],
         "track": "./audio/tracks/Dark Hills.mp3",
-        "spotifyLink": "",
-        "itunesLink": "",
-        "amazonLink": "",
+        "spotifyLink": "https://open.spotify.com/track/57fktiKK7R7XPlzMsTMAEf?si=709c1d0a8ff04169",
+        "itunesLink": "https://music.apple.com/us/album/dark-hills/1594451359?i=1594451372",
+        "amazonLink": "https://music.amazon.com/albums/B09LFC6ZFJ?trackAsin=B09LDH27L3&ref=dm_sh_7a8b-e5ef-9df6-238c-d579d",
         "deezerLink": "",
-        "youtubeLink": ""
+        "youtubeLink": "https://music.youtube.com/watch?v=qHrwK3cnywo&feature=share"
     },
     {
         "title": "After a Hundred Years",
@@ -155,11 +155,11 @@
         "poet": "Emily Dickinson",
         "performers": ["Tamara Hardesty", "Derin &Ouml;ge"],
         "track": "./audio/tracks/After a Hundred Years.mp3",
-        "spotifyLink": "",
-        "itunesLink": "",
-        "amazonLink": "",
+        "spotifyLink": "https://open.spotify.com/track/4jsKjsIbUyXmwvLQS2s54o?si=66c6edeb2ef341ba",
+        "itunesLink": "https://music.apple.com/us/album/after-a-hundred-years/1594451359?i=1594451373",
+        "amazonLink": "https://music.amazon.com/albums/B09LFC6ZFJ?trackAsin=B09LF9JXKN&ref=dm_sh_bae8-3f0a-5e8e-d599-0e380",
         "deezerLink": "",
-        "youtubeLink": ""
+        "youtubeLink": "https://music.youtube.com/watch?v=tROAsCoSch4&feature=share"
     },
     {
         "title": "I Thought My Heart Had Forgotten",
@@ -168,21 +168,21 @@
         "poet": "Alexander Pushkin",
         "performers": ["Tamara Hardesty", "Derin &Ouml;ge"],
         "track": "./audio/tracks/I thought my heart had forgotten.mp3",
-        "spotifyLink": "",
-        "itunesLink": "",
-        "amazonLink": "",
+        "spotifyLink": "https://open.spotify.com/track/6UAVxL25GGb2IeKkH8tzqo?si=979619e5804b4573",
+        "itunesLink": "https://music.apple.com/us/album/i-thought-my-heart-had-forgotten/1594451359?i=1594451374",
+        "amazonLink": "https://music.amazon.com/albums/B09LFC6ZFJ?trackAsin=B09LF51CN9&ref=dm_sh_3f19-bb3a-df13-c0e1-4f818",
         "deezerLink": "",
-        "youtubeLink": ""
+        "youtubeLink": "https://music.youtube.com/watch?v=MoaTq_vZAtg&feature=share"
     },
     {
         "title": "Musing",
         "description": "for piano solo",
         "performers": ["Tamami Honma"],
         "track": "./audio/tracks/Musing.mp3",
-        "spotifyLink": "",
-        "itunesLink": "",
-        "amazonLink": "",
+        "spotifyLink": "https://open.spotify.com/track/4MXZl9iMjuDdHAuVj2RPJv?si=570ae1f53bd74a56",
+        "itunesLink": "https://music.apple.com/us/album/musing/1594451359?i=1594451375",
+        "amazonLink": "https://music.amazon.com/albums/B09LFC6ZFJ?trackAsin=B09LF286F4&ref=dm_sh_353d-2dd5-3efb-8fd8-a3627",
         "deezerLink": "",
-        "youtubeLink": ""
+        "youtubeLink": "https://music.youtube.com/watch?v=N1qIMenZOIE&feature=share"
     }
 ]
