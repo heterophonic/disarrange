@@ -1,67 +1,50 @@
 {
     "Tamami Honma": {
         "instrument": "Piano",
-        "bio": "",
-        "photo": ""
+        "bio": "TamamiHonma"
     },
     "Tamara Hardesty": {
         "instrument": "Soprano",
-        "bio": "",
-        "photo": ""
+        "bio": "TamaraHardesty"
     },
     "Derin &Ouml;ge": {
         "instrument": "Piano",
-        "bio": "",
-        "photo": ""
+        "bio": "DerinOge"
     },
     "Jennifer DeVore": {
         "instrument": "Cello",
-        "bio": "",
-        "photo": ""
+        "bio": "JenniferDeVore"
     },
     "Lynn Bechtold": {
         "instrument": "Violin",
-        "bio": "",
-        "photo": ""
+        "bio": "LynnBechtold"
     },
     "Mioi Takeda": {
         "instrument": "Violin",
-        "bio": "",
-        "photo": ""
+        "bio": "MioiTakeda"
     },
     "Heather Green": {
         "instrument": "Soprano",
-        "bio": "",
-        "photo": ""
+        "bio": "HeatherGreen"
     },
     "Gene Pritsker": {
         "instrument": "Conductor",
-        "bio": "",
-        "photo": ""
+        "bio": "GenePritsker"
     },
     "Amir Khosrowpour": {
         "instrument": "Piano",
-        "bio": "",
-        "photo": ""
+        "bio": "AmirKhosrowpour"
     },
     "Jeremy Gerard": {
         "instrument": "Recording Engineer",
-        "bio": "",
-        "photo": ""
+        "bio": "JeremyGerard"
     },
     "Julian Brown": {
         "instrument": "Recording Engineer",
-        "bio": "",
-        "photo": ""
-    },
-    "Aveliya Design": {
-        "instrument": "Artist",
-        "bio": "",
-        "photo": ""
+        "bio": "JulianBrown"
     },
     "Luis Andrei Cobo": {
         "instrument": "Composer",
-        "bio": "",
-        "photo": ""
+        "bio": "LuisAndreiCobo"
     }
 }
