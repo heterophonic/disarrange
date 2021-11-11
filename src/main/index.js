@@ -10,7 +10,7 @@ import './main.scss'
 import tracks from './metadata/tracks.json'
 import people from './metadata/people.json'
 import LyricsDialog from './lyricsDisplay';
-import BioDialog from './bioDisplay';
+import BioDialog from './biodisplay';
 
 export const MainPage = props => {
 
