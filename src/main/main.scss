@@ -1,0 +1,202 @@
+$rhap_theme-color: goldenrod !default;   // Color of all buttons and volume/progress indicators
+$rhap_background-color: rgba(255, 255, 255, 0) !default; // Color of the player background
+$rhap_bar-color: #e086f7 !default;     // Color of volume and progress bar
+$rhap_time-color: rgb(167, 121, 7)  !default;       // Font color of current time and duration
+$rhap_font-family: 'Libre Baskerville', serif !default;   // Font family of current time and duration
+
+// P, SPAN, BODY, DIV, H1, H2, H3, H4 {
+//     font-family: 'Libre Baskerville', serif !important;
+// }
+P, SPAN, BODY, DIV, H1, H2, H3, H4 {
+    font-family: 'Tahoma', sans-serif !important;
+}
+A {
+    color:rgb(228, 202, 135);
+}
+A:hover {
+    color:goldenrod;
+}
+.main-container {
+    position:fixed;
+    top:0px;
+    left:0px;
+    height:100%;
+    width:100%;
+    overflow: auto;
+    background-image: url(./images/BackCoverBlank.png);
+    color:goldenrod !important;
+}
+.goldenrod {
+    color:goldenrod !important;
+}
+.eggshell {
+    color: #decfc9 !important;
+}
+
+.rhap_container {
+    background-color: rgba(0,0,0,0);
+  }
+.rhap_container *:hover {
+opacity: 1;
+}
+
+.rhap_volume-container {
+visibility: visible;
+}
+
+.rhap_main-controls-button,
+.rhap_repeat-button {
+color: goldenrod;
+}
+
+.rhap_repeat-button {
+margin-right: 0;
+}
+
+
+.rhap_progress-indicator {
+background-color: goldenrod;
+top: -6px;
+}
+
+.rhap_main-controls {
+width: 40vw;
+justify-content: space-between;
+}
+
+.rhap_play-pause-button {
+/* font-size: 50px; */
+/* width: 50px; */
+/* height: 50px; */
+height: 45px;
+}
+
+.play-pause-button {
+width: 45px;
+height: 45px;
+/* font-size: 20px; */
+}
+
+.rhap_time {
+color: gold;
+font-size: 0.75rem;
+width: 50px;
+}
+
+.rhap_progress-bar {
+height: 8px;
+border-radius: 50px;
+background-color: rgb(95, 71, 11);
+}
+
+.rhap_progress-filled {
+background-color: rgb(255, 183, 0);
+}
+
+.rhap_download-progress {
+background-color: rgb(173, 130, 20);
+}
+
+.rhap_volume-controls {
+    display: flex;
+    flex: 1 0 auto;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+.rhap_volume-button {
+flex: 0 0 26px;
+font-size: 26px;
+width: 26px;
+height: 26px;
+color: goldenrod;
+margin-right: 6px;
+}
+
+.rhap_volume-container {
+display: flex;
+align-items: center;
+flex: 0 1 100px;
+user-select: none;
+-webkit-user-select: none;
+}
+
+.rhap_volume-bar-area {
+display: flex;
+align-items: center;
+width: 100%;
+height: 14px;
+cursor: pointer;
+}
+.rhap_volume-bar-area:focus:not(:focus-visible) {
+outline: 0;
+}
+
+.rhap_volume-bar {
+box-sizing: border-box;
+position: relative;
+width: 100%;
+height: 4px;
+background: rgb(95, 71, 11);
+border-radius: 2px;
+}
+
+.rhap_volume-indicator {
+box-sizing: border-box;
+position: absolute;
+width: 12px;
+height: 12px;
+margin-left: -6px;
+left: 0;
+top: -4px;
+background: goldenrod;
+opacity: 0.9;
+border-radius: 50px;
+box-shadow: rgba(134, 134, 134, 0.5) 0 0 3px;
+cursor: pointer;
+}
+.rhap_volume-indicator:hover {
+opacity: 0.9;
+}
+
+.rhap_volume-filled {
+height: 100%;
+position: absolute;
+z-index: 2;
+background: rgb(153, 100, 167);
+border-radius: 2px;
+}
+
+.footer {
+    position:fixed;
+    bottom:0px;
+    left:0px;
+    width:100%;
+}
+.inset {
+    margin-left:45px;
+    padding-left:45px;
+}
+.left-float {
+    float: left;
+}
+.right-float {
+    float: right;
+}
+.lyrics {
+    text-align: center;
+}
+
+.ui.card.Change:hover {
+    background-color: rgba(32, 3, 32, 0.199) !important;
+}
+.asLink {
+    color:rgb(228, 202, 135);
+}
+.asLink:hover {
+    color:goldenrod;
+    cursor:pointer;
+}
+.lyric-modal {
+    background-color: rgba(32, 3, 32, 0.199) !important;
+}
