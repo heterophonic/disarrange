@@ -23,7 +23,7 @@ const LyricNamesAndComponents  = {
     "Worms": Worms
 }
 
-const LyricsDialog = ({open, title, contentTag, closeFn}) => {
+const LyricsDialog = ({open, contentTag, closeFn}) => {
     const LyricsContent = LyricNamesAndComponents[contentTag]
     return (
         <Modal

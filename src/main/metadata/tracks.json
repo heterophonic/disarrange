@@ -15,6 +15,7 @@
         "description": "for Soprano and Piano",
         "lyrics": "Felonies",
         "poet": "Jennifer Michael Hecht",
+        "poetlink": "http://www.jennifermichaelhecht.com",
         "performers": ["Tamara Hardesty", "Derin &Ouml;ge"],
         "track": "./audio/tracks/Felonies.mp3",
         "spotifyLink": "",
@@ -39,6 +40,7 @@
         "description": "for Soprano, Cello, and Piano",
         "lyrics": "TheDisarrange",
         "poet": "Jennifer Michael Hecht",
+        "poetlink": "http://www.jennifermichaelhecht.com",
         "performers": ["Tamara Hardesty", "Derin &Ouml;ge", "Jennifer DeVore"],
         "track": "./audio/tracks/The Disarrange.mp3",
         "spotifyLink": "",
@@ -63,6 +65,7 @@
         "description": "for Soprano and Piano",
         "lyrics": "OnTheStrength",
         "poet": "Jennifer Michael Hecht",
+        "poetlink": "http://www.jennifermichaelhecht.com",
         "performers": ["Tamara Hardesty", "Derin &Ouml;ge"],
         "track": "./audio/tracks/On the strength of all conviction.mp3",
         "spotifyLink": "",
@@ -96,7 +99,7 @@
         "youtubeLink": ""
     },
     {
-        "title": "Time Does Not Bring Relief",
+        "title": "Time Does Not Bring Relief<span class='note'>*</span>",
         "description": "for Soprano and Piano Quintet",
         "lyrics": "TimeDoesNotBringRelief",
         "poet": "Edna St. Vincent Millay",
@@ -109,7 +112,7 @@
         "youtubeLink": ""
     },
     {
-        "title": "Worms",
+        "title": "Worms<span class='note'>*</span>",
         "description": "for Soprano and Piano Quintet",
         "lyrics": "Worms",
         "poet": "Heather Green",

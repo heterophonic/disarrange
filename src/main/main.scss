@@ -8,7 +8,7 @@ $rhap_font-family: 'Libre Baskerville', serif !default;   // Font family of curr
 //     font-family: 'Libre Baskerville', serif !important;
 // }
 P, SPAN, BODY, DIV, H1, H2, H3, H4 {
-    font-family: 'Tahoma', sans-serif !important;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
 }
 A {
     color:rgb(228, 202, 135);
@@ -16,6 +16,7 @@ A {
 A:hover {
     color:goldenrod;
 }
+
 .main-container {
     position:fixed;
     top:0px;
@@ -199,4 +200,7 @@ border-radius: 2px;
 }
 .lyric-modal {
     background-color: rgba(32, 3, 32, 0.199) !important;
+}
+.note {
+    color:goldenrod;
 }
