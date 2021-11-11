@@ -8,7 +8,7 @@ const AmirKhosrowpour = (props) => {
             <p>
             Pianist, composer, improviser, and swell guy, Amir Khosrowpour is what some might call "a dreamboat." 
             </p>
-            <p>See more info at <a href="http://www.amirpiano.com/" target="_blank">www.amirpiano.com</a></p>
+            <p>See more info at <a href="http://www.amirpiano.com/" target="_blank">www.amirpiano.com</a><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></p>
         </div>
     )
 }
