@@ -106,7 +106,7 @@ export const MainPage = props => {
                 </Grid>
                 }
                 {!init && 
-                <div style={{margin:"0px auto", width:"95%", height:"85vh", overflowY:"auto", overflowX:"hidden"}}>
+                <div style={{margin:"0px auto", marginBottom:"200px", width:"95%", height:"85vh", overflowY:"auto", overflowX:"hidden"}}>
                     <Transition animation='scale' duration={2000}>
                         <div style={{margin:"0px auto", width:"98%"}}>
                             <Grid>
@@ -179,7 +179,7 @@ export const MainPage = props => {
                                         })}
                                     </Segment>
                                     <Segment basic>
-                                        <p><br/><br/><br/><br/></p>    
+                                        <p><br/><br/></p>    
 
                                     </Segment>
                                 </Grid.Column>
