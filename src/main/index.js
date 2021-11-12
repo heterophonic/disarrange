@@ -106,13 +106,13 @@ export const MainPage = props => {
                 </Grid>
                 }
                 {!init && 
-                <div style={{margin:"0px auto", width:"95%", height:"85vh", overflow:"auto"}}>
+                <div style={{margin:"0px auto", width:"95%", height:"85vh", overflowY:"auto", overflowX:"hidden"}}>
                     <Transition animation='scale' duration={2000}>
-                        <div style={{margin:"auto", width:"100%"}}>
+                        <div style={{margin:"0px auto", width:"98%"}}>
                             <Grid>
                                 <Grid.Row>
-                                    <Grid.Column width={16}>
-                                        <div style={{margin:"auto", width:"100%"}}>
+                                    <Grid.Column width={15} style={{margin:"0px auto"}}>
+                                        <div style={{margin:"0px auto", width:"100%"}}>
                                             <div style={{border:"2px goldenrod solid",marginTop:"10px",padding:"3px",borderRadius:"8px",fontSize:"10pt"}}>
                                                 <div style={{border:"0.25px goldenrod solid", padding:"6px", borderRadius:"4px"}} className="eggshell">
                                                     <Image src={albumCover} style={{height:"250px", width:"250px"}} floated="left"/><p>This album represents a collection of art songs and piano solos spanning 30 years of the music of <span className="asLink" onClick={() => showBioDialog({tagName: "LuisAndreiCobo"})}>Luis Andrei Cobo</span> and marks the culmination of a 4 year labor of love in assembling this for release.<br/><br/></p>
@@ -141,7 +141,7 @@ export const MainPage = props => {
                                     </Grid.Column>
                                 </Grid.Row>
                                 <Grid.Row>
-                                    <Grid.Column width={16}>
+                                    <Grid.Column width={15} style={{margin:"0px auto"}}>
                                     <Segment basic style={{border: "rgb(95, 71, 11) solid 0.5px", padding:"2px", marginTop:"-5px",borderRadius: "8px"}}><Header className="goldenrod" textAlign='center'>Album Track Details</Header></Segment>
                                     <Segment basic style={{border: "rgb(95, 71, 11) solid 0.5px", padding:"12px", marginTop:"-5px",borderRadius: "8px"}}>
                                         {trackData.map((track, idx) => {
