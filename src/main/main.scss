@@ -7,6 +7,16 @@ $rhap_font-family: 'Libre Baskerville', serif !default;   // Font family of curr
 // P, SPAN, BODY, DIV, H1, H2, H3, H4 {
 //     font-family: 'Libre Baskerville', serif !important;
 // }
+html {
+    height  : 100%;
+    overflow: hidden;
+    position: relative;
+}
+body {
+    height  : 100%;
+    overflow: auto;
+    position: relative;
+}
 P, SPAN, BODY, DIV, H1, H2, H3, H4 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
 }
