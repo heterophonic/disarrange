@@ -21,7 +21,7 @@ const LuisAndreiCobo = (props) => {
             Current projects include a large aria for Heather Green on her poetry which is part of a larger symphonic work, and two more songs for Tamara Hardesty on the poetry of Edna St. Vincent Millay. 
             </p>
             <p>
-            By day, Cobo works as a software engineer for large reputable companies. He is a single dad, living in Jersey City with his dog, Darwin.     
+            Luis Andrei Cobo also works as a software engineer for large reputable companies. He is a single dad, living in Jersey City with his dog, Darwin. 
             </p>
         </div>
     )
