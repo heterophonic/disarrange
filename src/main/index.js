@@ -122,7 +122,7 @@ export const MainPage = props => {
                                                         Solo piano music recorded at <a href="http://www.calarte.com" target="_blank">Cal Arte Music Productions</a>. Julian Brown, Chief Engineer <br/>
                                                         Live tracks performed and recorded in 2019 at the <a href="https://www.operaamerica.org/national-opera-center/" target="_blank">National Opera Center</a>. Jeremy Gerard, Chief Engineer.<br/>
                                                         All recordings mastered at <a href="http://www.guraristudios.com" target="_blank">Gurari Studios</a><br/>
-                                                        Front cover art by <a href="http://www.aveliyadesign.com" target="_blank">AveliyaDesign</a><br/>
+                                                        Front cover art by <a href="https://www.instagram.com/aveliyadesign/" target="_blank">AveliyaDesign</a><br/>
                                                         Copyright &copy;2021, <span className="asLink" onClick={() => showBioDialog({tagName: "LuisAndreiCobo"})}>Luis Andrei Cobo</span>. All Rights Reserved. ASCAP<br/><br/>
                                                         <span className="note">*</span> = Live performance in affiliation with, and produced by <a href="http://www.composersconcordance.com" target="_blank">Composers Concordance</a>. 
                                                     </p>
