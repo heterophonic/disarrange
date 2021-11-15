@@ -1,7 +1,7 @@
 [
     {
         "title": "Prelude #1",
-        "description": "for solo piano",
+        "description": "for solo piano<br>(world premiere)",
         "performers": ["Tamami Honma"],
         "track": "./audio/tracks/Prelude.mp3",
         "spotifyLink": "https://open.spotify.com/track/4QLR4h9CzxgADbiDLGYTV4?si=8d1da4bdb1f14ab3",
@@ -26,7 +26,7 @@
     },
     {
         "title": "Le Petit Basque",
-        "description": "for solo piano",
+        "description": "for solo piano<br>(world premiere)",
         "performers": ["Tamami Honma"],
         "track": "./audio/tracks/Le Petit Basque.mp3",
         "spotifyLink": "https://open.spotify.com/track/4sqV3tNZ81pv6XSbARSasE?si=5ccc603e151043e9",
@@ -176,7 +176,7 @@
     },
     {
         "title": "Musing",
-        "description": "for piano solo",
+        "description": "for piano solo<br>(world premiere)",
         "performers": ["Tamami Honma"],
         "track": "./audio/tracks/Musing.mp3",
         "spotifyLink": "https://open.spotify.com/track/4MXZl9iMjuDdHAuVj2RPJv?si=570ae1f53bd74a56",

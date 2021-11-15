@@ -160,7 +160,7 @@ export const MainPage = props => {
                                                         {expandedTrackInfo[idx] &&
                                                             <>
                                                             <Segment basic style={{marginTop:"20px",lineHeight:"18px"}}>
-                                                                <span className="eggshell">{track.description}</span>
+                                                                <span className="eggshell" dangerouslySetInnerHTML={{__html: track.description}}></span>
                                                                 {track.lyrics && track.poet && <><br/><span><span className="asLink" onClick={() => ShowLyrics({trackIndex:idx})}>Lyrics</span><span className="eggshell">&nbsp;by {track.poetlink && <a className="asLink" href={track.poetlink} target="_blank">{track.poet}</a>}{!track.poetlink && track.poet}</span></span><br/></>}
                                                                 {track.performers.map(performer => {
                                                                     return (<><br/><span className="asLink" onClick={() => showBioDialog({tagName: peopleData[performer].bio})} dangerouslySetInnerHTML={{__html: performer}}></span><span className="eggshell"> - {peopleData[performer].instrument}</span></>)
