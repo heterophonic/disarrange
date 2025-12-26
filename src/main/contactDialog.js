@@ -40,7 +40,8 @@ const ContactDialog = ({open, closeFn}) => {
         var body = {
             "name": name,
             "email": email,
-            "desc": desc
+            "desc": desc,
+            "subject": "Please Tell Me More About the Disarrange Album"
         }
         var result = await axios.post("https://b7a102qsxg.execute-api.us-east-2.amazonaws.com/Prod", body, {
             'Content-Type': "application/json"
